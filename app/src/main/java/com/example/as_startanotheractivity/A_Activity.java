@@ -1,3 +1,4 @@
+// App test
 package com.example.as_startanotheractivity;
 
 import android.app.Activity;
